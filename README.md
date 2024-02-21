@@ -40,4 +40,4 @@ The SQL queries written for Snowflake are designed to sift through vast amounts 
 
 ### **Dashboard** 
 
-### ![](images/Screenshot%202024-02-21%20at%202.34.42%E2%80%AFPM.png) 
+### ![](images/paste-357F0477.png) 
